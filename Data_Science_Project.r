@@ -1,7 +1,3 @@
-# Programmer: Sabneet Bains
-# Purpose: Data Science Project for STAT 201
-# Date: 06/10/18
-
 ##############################################################################################
 # 1. Importing original data set of Stack Overflow 2018 Developer Survey
 
