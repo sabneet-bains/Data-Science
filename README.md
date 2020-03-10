@@ -1,2 +1,1 @@
-# Data-Science
- Data Science Project
+# Data Science Academic Statistical Analyses
