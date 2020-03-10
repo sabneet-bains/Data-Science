@@ -1,1 +1,1 @@
-# Data Science Academic Statistical Analyses
+# Academic Statistical Analyses
