@@ -1,7 +1,7 @@
 ##############################################################################################
 # 1. Importing original data set of Stack Overflow 2018 Developer Survey
 
-original_data <- read.csv("survey_results_public_2.csv")
+original_data <- read.csv("Stack_Overflow_2018_Developer_Public_Survey.csv")
 
 # 1.1. Randomly choosing 1000 rows from the original data (*default seed)
 
