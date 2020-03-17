@@ -24,7 +24,6 @@ hist(random_sample$Yearly.Salary.in.USD, main = "Salary Distribution Amongst Sto
 
 developer_opinion <- plot(random_sample$Open.Source, random_sample$Yearly.Salary.in.USD, main = "Stock Overflow Developer Survey: Respondent Yearly Salary ($) vs Stance on Open Source Software", ylab = "Yearly Salary ($)", xlab = "Stance on open source software", col=7:6)
 
-
 developer_opinion_no <- developer_opinion$stats[,1]
 developer_opinion_yes <- developer_opinion$stats[,2]
 
