@@ -2,7 +2,9 @@
 
 A repository of original data visualizations and analyses.
 
-<img src="https://github.com/sabneet95/Game-Development/blob/main/Clue/gameboard.gif" width="853.3" height="480">
+<img src="https://github.com/sabneet95/Data-Science/blob/master/bains_project03_dashboard.jpg">
+<img src="https://github.com/sabneet95/Data-Science/blob/master/Pie_Chart.png">
+<img src="https://github.com/sabneet95/Data-Science/blob/master/bloch_anim.gif">
 
 ## Requirements
 
