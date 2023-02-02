@@ -1,35 +1,34 @@
-# Data-Science
+# Data Science Repository
 
-A repository of original data visualizations and analyses.
+A collection of high-quality, original data visualizations and analyses.
 
 <img src="https://github.com/sabneet95/Data-Science/blob/master/bains_project03_dashboard.jpg">
 <img src="https://github.com/sabneet95/Data-Science/blob/master/Pie_Chart.png">
 
 ## Requirements
 
-[Python 3.9.1 (64-bit) or above](https://www.python.org/downloads/)
+[Python 3.9.1 or later (64-bit)](https://www.python.org/downloads/)
 
-[tableau](https://www.tableau.com/)
+[Tableau](https://www.tableau.com/)
 
 
-## Build Tested
+## Tested Environment
 
-Visual Studio Code
-* Version: 1.52.1 (system setup)
+The repository was tested in the following setup:
+
+* Visual Studio Code v1.52.1
 * Commit: ea3859d4ba2f3e577a159bc91e3074c5d85c0523
 * Electron: 9.3.5
 * Chrome: 83.0.4103.122
 * Node.js: 12.14.1
 * V8: 8.3.110.13-electron.0
-* OS: Windows_NT x64 10.0.19042
-* Memory: 1981M
+* Operating System: Windows 11 (64-bit)
+* Memory: 1981 MB
 * Cores: 8
 
 ## Contributing
 
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
+Contributions are welcome through pull requests. For significant changes, please open an issue to discuss the proposed change before submitting a pull request. Please make sure to update the tests accordingly.
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+This repository is licensed under the [MIT](https://choosealicense.com/licenses/mit/) License.
