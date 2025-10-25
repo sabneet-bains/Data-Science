@@ -49,11 +49,13 @@ Replaced a hybrid square chart with a functional pie chart labeled directly on s
 Exploration of NASA JPL Near-Earth Object (NEO) datasets.  
 
 Proposed multiple visual designs — radar, bubble, histogram, and area plots — to assess asteroid proximity, rarity, and hazard size.  
+
 Focus: *Analytical questioning → visual form evaluation → design justification.*
 
 
 ### **🛰 Project #3 — Interactive Visualization using Tableau**  
 Interactive dashboard analyzing NEOs (1900 – 2200 CE) by approach distance, rarity, and diameter.  
+
 Global filters interlink bubble, histogram, and area charts for cross-filtering.  
 
 🔗 [View on Tableau Public](https://public.tableau.com/app/profile/sabneet.bains/viz/bains_project03/NEODashboard)  
@@ -64,10 +66,13 @@ Global filters interlink bubble, histogram, and area charts for cross-filtering.
 ### **🐍 Project #4 — Interactive Visualization using Python**  
 Three open-source dashboards built with **Matplotlib + Pandas** to replicate Tableau-style interactivity:  
 1. **Electric Vehicle Range Analysis** — dual filters by manufacturer × category.  
+
    <img src="https://github.com/sabneet95/Data-Science/blob/master/images/Screenshot_sample01.jpeg" width="220">  
 2. **YouTube Subscribers Analysis** — pie charts by category or country with adaptive labels.  
+
    <img src="https://github.com/sabneet95/Data-Science/blob/master/images/Screenshot_sample02.jpeg" width="220">  
 3. **Job Recruitment vs Skills** — histograms comparing hired vs non-hired students across Python, SQL, ML, Tableau, and Excel.  
+
    <img src="https://github.com/sabneet95/Data-Science/blob/master/images/Screenshot_sample03.jpeg" width="220">
 
 Each script uses `matplotlib.widgets.RadioButtons` for live filtering and descriptive statistics overlays.
