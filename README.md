@@ -11,7 +11,7 @@
 
 These projects combine design integrity, interactivity, and reproducible analysis — ranging from NASA’s Near-Earth Objects to quantum-state visualizations.
 
-<img src="https://github.com/sabneet95/Data-Science/blob/master/bains_project03_dashboard.jpg" alt="NEO Tableau Dashboard" width="800">
+<img src="https://github.com/sabneet95/Data-Science/blob/master/images/bains_project03_dashboard.jpg" alt="NEO Tableau Dashboard" width="800">
 
 > *Note: These visualizations are primarily educational and research-oriented, intended to demonstrate analytical storytelling, interactivity, and design best practices.*
 
@@ -42,7 +42,7 @@ Each project demonstrates the process of **data exploration → statistical anal
 Redesign of a flawed *Kitchn* grocery-spending chart to illustrate perceptual balance and data integrity.  
 Replaced a hybrid square chart with a functional pie chart labeled directly on slices.  
 
-<img src="https://github.com/sabneet95/Data-Science/blob/master/Pie_Chart.png" width="280">
+<img src="https://github.com/sabneet95/Data-Science/blob/master/images/Pie_Chart.png" width="280">
 
 
 ### **🌍 Project #2 — Data Exploration and Design**  
@@ -58,17 +58,17 @@ Global filters interlink bubble, histogram, and area charts for cross-filtering.
 
 🔗 [View on Tableau Public](https://public.tableau.com/app/profile/sabneet.bains/viz/bains_project03/NEODashboard)  
 
-<img src="https://github.com/sabneet95/Data-Science/blob/master/bains_project03_dashboard.jpg" width="600">
+<img src="https://github.com/sabneet95/Data-Science/blob/master/images/bains_project03_dashboard.jpg" width="600">
 
 
 ### **🐍 Project #4 — Interactive Visualization using Python**  
 Three open-source dashboards built with **Matplotlib + Pandas** to replicate Tableau-style interactivity:  
 1. **Electric Vehicle Range Analysis** — dual filters by manufacturer × category.  
-   <img src="https://github.com/sabneet95/Data-Science/blob/master/Screenshot_sample01.jpeg" width="220">  
+   <img src="https://github.com/sabneet95/Data-Science/blob/master/images/Screenshot_sample01.jpeg" width="220">  
 2. **YouTube Subscribers Analysis** — pie charts by category or country with adaptive labels.  
-   <img src="https://github.com/sabneet95/Data-Science/blob/master/Screenshot_sample02.jpeg" width="220">  
+   <img src="https://github.com/sabneet95/Data-Science/blob/master/images/Screenshot_sample02.jpeg" width="220">  
 3. **Job Recruitment vs Skills** — histograms comparing hired vs non-hired students across Python, SQL, ML, Tableau, and Excel.  
-   <img src="https://github.com/sabneet95/Data-Science/blob/master/Screenshot_sample03.jpeg" width="220">
+   <img src="https://github.com/sabneet95/Data-Science/blob/master/images/Screenshot_sample03.jpeg" width="220">
 
 Each script uses `matplotlib.widgets.RadioButtons` for live filtering and descriptive statistics overlays.
 
@@ -78,7 +78,7 @@ Tableau-based **Bloch sphere simulator** illustrating single-qubit gate transfor
 
 Applies spherical trigonometry and rotation matrices to simulate quantum-state evolution.  
 
-<img src="https://github.com/sabneet95/Data-Science/blob/master/bloch_anim.gif" width="280">
+<img src="https://github.com/sabneet95/Data-Science/blob/master/images/bloch_anim.gif" width="280">
 
 
 ## 🧱 Architecture  
@@ -97,6 +97,9 @@ Data-Science/
 │       ├── Data1.csv
 │       ├── Data2.csv
 │       └── Data3.csv
+├── R/
+│   ├── Developer_Statistics.r
+│   └── Stack_Overflow_2018_Developer_Public_Survey.csv
 ├── images/
 │   ├── Pie_Chart.png
 │   ├── bains_project03_dashboard.jpg
