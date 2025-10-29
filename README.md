@@ -1,99 +1,83 @@
-# 🧠 Data Science Repository  
+<div align="center"><a name="readme-top"></a>
 
-[![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python)](https://www.python.org/) 
-[![Tableau](https://img.shields.io/badge/Tableau-2022.1-orange?logo=tableau&logoColor=white)](https://www.tableau.com/) 
-[![Data Visualization](https://img.shields.io/badge/Domain-Data_Visualization-lightgrey?logo=bar-chart&logoColor=white)](#) 
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+# 🧠 Data Science — Visualization × Analytics Systems
 
-<br>
+[![Python](https://img.shields.io/badge/Python-3.9%2B-528ec5?logo=python&logoColor=white&labelColor=0d1117&style=flat)](https://www.python.org/)
+[![Tableau](https://img.shields.io/badge/Tableau-2022.1-f9a03c?logo=tableau&logoColor=white&labelColor=0d1117&style=flat)](https://www.tableau.com/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-3.x-336699?logo=plotly&logoColor=white&labelColor=0d1117&style=flat)](https://matplotlib.org/)
+[![Data Visualization](https://img.shields.io/badge/Domain-Data_Visualization-lightgrey?logo=bar-chart&logoColor=white&labelColor=0d1117&style=flat)](#)
+[![License: MIT](https://img.shields.io/badge/License-MIT-2ECC71?labelColor=0d1117&style=flat)](https://choosealicense.com/licenses/mit/)
 
-**A curated portfolio of original, high-quality data visualizations and analytical dashboards built in Python and Tableau.**  
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/sabneet-bains/Data-Science)
 
-These projects combine design integrity, interactivity, and reproducible analysis — ranging from NASA’s Near-Earth Objects to quantum-state visualizations.
+**Turning data into design.**  
+<sup>*A curated portfolio of analytical dashboards and interactive visualizations built with Python and Tableau — bridging data storytelling with quantitative clarity.*</sup>
 
 <img src="https://github.com/sabneet95/Data-Science/blob/master/images/bains_project03_dashboard.jpg" alt="NEO Tableau Dashboard" width="800">
 
-> *Note: These visualizations are primarily educational and research-oriented, intended to demonstrate analytical storytelling, interactivity, and design best practices.*
+</div>
+
+> [!NOTE]
+> <sup>Part of the <b>Foundational & Academic</b> collection — educational repositories engineered for design integrity and analytical rigor.</sup>
 
 
-## 🧭 Table of Contents  
-
-- [Overview](#overview)  
-- [Projects](#projects)  
-- [Architecture](#architecture)  
-- [Requirements](#requirements)  
-- [Usage](#usage)  
-- [Testing](#testing)  
-- [Contributing](#contributing)  
-- [Author](#author)  
-- [License](#license)  
-
-
-## 🧩 Overview  
-
-This repository showcases data-driven visualizations created during graduate-level studies in **Data Visualization**.  
-
-Each project demonstrates the process of **data exploration → statistical analysis → visual encoding → interactive storytelling**, using both proprietary (Tableau) and open-source (Python) tools.
+## 🧭 Table of Contents
+- [Overview](#-overview)
+- [Project Highlights](#-project-highlights)
+- [Repository Structure](#-repository-structure)
+- [Architecture](#-architecture)
+- [Requirements](#-requirements)
+- [Usage](#-usage)
+- [Testing](#-testing)
+- [Contributing](#-contributing)
+- [Future Work](#-future-work)
+- [Author](#-author)
+- [License](#-license)
 
 
-## 📊 Projects  
+## 🧠 Overview
+This repository showcases **data-driven visual systems** created during graduate-level coursework in *Data Visualization*.  
+Each project demonstrates the complete lifecycle — from **data exploration** and **statistical modeling** to **visual encoding** and **interactive storytelling** — combining open-source (Python) and proprietary (Tableau) tools for reproducible, design-driven analytics.
 
-### **🪐 Project #1 — Visualization Critique**  
-Redesign of a flawed *Kitchn* grocery-spending chart to illustrate perceptual balance and data integrity.  
-Replaced a hybrid square chart with a functional pie chart labeled directly on slices.  
+> [!TIP]
+> Each project emphasizes *clarity, accessibility, and fidelity* — visualization as both analysis and narrative.
 
-<img src="https://github.com/sabneet95/Data-Science/blob/master/images/Pie_Chart.png" width="280">
+<div align="right">
 
+[![Back to Top](https://img.shields.io/badge/-⫛_TO_TOP-0d1117?style=flat)](#readme-top)
 
-### **🌍 Project #2 — Data Exploration and Design**  
-Exploration of NASA JPL Near-Earth Object (NEO) datasets.  
-
-Proposed multiple visual designs — radar, bubble, histogram, and area plots — to assess asteroid proximity, rarity, and hazard size.  
-
-Focus: *Analytical questioning → visual form evaluation → design justification.*
+</div>
 
 
-### **🛰 Project #3 — Interactive Visualization using Tableau**  
-Interactive dashboard analyzing NEOs (1900 – 2200 CE) by approach distance, rarity, and diameter.  
+## 📊 Project Highlights
 
-Global filters interlink bubble, histogram, and area charts for cross-filtering.  
+| 🧩 Module | 🧮 Description | 🧠 Framework |
+|:----------|:---------------|:-------------|
+| 🪐 **Visualization Critique** | Redesign of misleading grocery-spending charts — balancing accuracy and visual perception | Tableau |
+| 🌍 **Data Exploration & Design** | NASA JPL NEO dataset exploration using radar, bubble, and histogram plots | Python, Tableau |
+| 🛰 **Interactive Dashboard** | Cross-filtering NEO dashboard (1900–2200 CE) | Tableau |
+| 🐍 **Python Dashboards** | EV Range, YouTube Stats, and Recruitment Analytics | Matplotlib, Pandas |
+| ⚛ **Quantum Visualization** | Bloch-sphere simulator for qubit gate transformations | Tableau, NumPy |
 
-🔗 [View on Tableau Public](https://public.tableau.com/app/profile/sabneet.bains/viz/bains_project03/NEODashboard)  
+> [!NOTE]
+> Projects span **scientific visualization**, **statistical exploration**, and **human-centered design** — balancing aesthetics with analytical transparency.
 
-<img src="https://github.com/sabneet95/Data-Science/blob/master/images/bains_project03_dashboard.jpg" width="600">
+<div align="right">
 
+[![Back to Top](https://img.shields.io/badge/-⫛_TO_TOP-0d1117?style=flat)](#readme-top)
 
-### **🐍 Project #4 — Interactive Visualization using Python**  
-Three open-source dashboards built with **Matplotlib + Pandas** to replicate Tableau-style interactivity:  
-1. **Electric Vehicle Range Analysis** — dual filters by manufacturer × category.  
-
-   <img src="https://github.com/sabneet95/Data-Science/blob/master/images/Screenshot_sample01.jpeg" width="220">  
-2. **YouTube Subscribers Analysis** — pie charts by category or country with adaptive labels.  
-
-   <img src="https://github.com/sabneet95/Data-Science/blob/master/images/Screenshot_sample02.jpeg" width="220">  
-3. **Job Recruitment vs Skills** — histograms comparing hired vs non-hired students across Python, SQL, ML, Tableau, and Excel.  
-
-   <img src="https://github.com/sabneet95/Data-Science/blob/master/images/Screenshot_sample03.jpeg" width="220">
-
-Each script uses `matplotlib.widgets.RadioButtons` for live filtering and descriptive statistics overlays.
+</div>
 
 
-### **⚛ Quantum Computing Visualization**  
-Tableau-based **Bloch sphere simulator** illustrating single-qubit gate transformations (Pauli-X/Y/Z, Hadamard).  
-
-Applies spherical trigonometry and rotation matrices to simulate quantum-state evolution.  
-
-<img src="https://github.com/sabneet95/Data-Science/blob/master/images/bloch_anim.gif" width="280">
-
-
-## 🧱 Architecture  
-
+## 📂 Repository Structure
 ````text
 Data-Science/
+│
 ├── Tableau/
 │   ├── Interactive_Visualization_using_Tableau.twbx
 │   ├── Quantum_Computing_Visualization.twbx
 │   └── Visualization_Critique/
+│
 ├── Python/
 │   ├── Sample1.py
 │   ├── Sample2.py
@@ -102,9 +86,11 @@ Data-Science/
 │       ├── Data1.csv
 │       ├── Data2.csv
 │       └── Data3.csv
+│
 ├── R/
 │   ├── Developer_Statistics.r
 │   └── Stack_Overflow_2018_Developer_Public_Survey.csv
+│
 ├── images/
 │   ├── Pie_Chart.png
 │   ├── bains_project03_dashboard.jpg
@@ -112,70 +98,123 @@ Data-Science/
 │   ├── Screenshot_sample02.jpeg
 │   ├── Screenshot_sample03.jpeg
 │   └── bloch_anim.gif
+│
 ├── LICENSE
 └── README.md
 ````
 
+> [!TIP]
+> Directory organization separates tools by **language and visualization layer**, ensuring clarity between **Tableau**, **Python**, and **R** workflows.
 
-## ⚙️ Requirements  
+<div align="right">
 
-- **Python 3.9 or later (64-bit)**  
-  [Download Python](https://www.python.org/downloads/)  
+[![Back to Top](https://img.shields.io/badge/-⫛_TO_TOP-0d1117?style=flat)](#readme-top)
 
-- **Tableau 2022.1 or later**  
-  [Download Tableau](https://www.tableau.com/)  
-
-- **Python packages:**  
-  ````bash
-  pip install pandas numpy matplotlib
-  ````
+</div>
 
 
-## 🚀 Usage  
+## ⚙️ Requirements
+````text
+Python >= 3.9 (64-bit)
+Tableau >= 2022.1
+pandas >= 1.5
+numpy >= 1.24
+matplotlib >= 3.7
+````
 
-1. Clone the repository:  
-   ````bash
-   git clone https://github.com/sabneet95/Data-Science.git
-   cd Data-Science
-   ````
+> [!IMPORTANT]
+> Tableau Public is sufficient for viewing `.twbx` dashboards; no license required for exploration.
 
-2. Run any Python sample:  
-   ````bash
-   python Python/Sample1.py
-   ````
+<div align="right">
 
-3. Open Tableau workbooks in Tableau Public or Desktop.  
+[![Back to Top](https://img.shields.io/badge/-⫛_TO_TOP-0d1117?style=flat)](#readme-top)
 
-4. Interact with filters and explore the linked dashboards.
-
-
-## 🧪 Testing  
-
-<details>
-<summary>Testing Status</summary>
-  
-Automated testing is not yet implemented.  
-Future plans include integrating **pytest** for Python scripts and scripted validation dashboards in Tableau.  
-
-</details>
+</div>
 
 
-## 🤝 Contributing  
+## 🚀 Usage
+````bash
+# Clone repository
+git clone https://github.com/sabneet95/Data-Science.git
+cd Data-Science
 
-1. Open an issue to discuss major changes.  
-2. Follow existing documentation and style conventions.  
-3. Submit pull requests with clear descriptions and, if possible, demo screenshots.  
+# Run any Python visualization
+python Python/Sample1.py
+````
 
-> 💡 Contributors interested in **data storytelling**, **interactive visualization**, or **quantum simulation** are especially welcome.
+Then open `.twbx` workbooks in **Tableau Desktop** or **Tableau Public**, explore linked filters, and interact with the dashboards.
+
+> [!TIP]
+> For best experience, use **wide-screen layouts** in Tableau and **dark mode themes** in Matplotlib for contrast-optimized presentation.
+
+<div align="right">
+
+[![Back to Top](https://img.shields.io/badge/-⫛_TO_TOP-0d1117?style=flat)](#readme-top)
+
+</div>
 
 
-## 🧠 Author  
+## 🧪 Testing
+````bash
+# (Planned) Visualization regression testing
+pytest tests/
+````
 
-**Sabneet Bains** — *Quantum × AI × Scientific Computing*  
+> [!NOTE]
+> Testing modules are planned for **script validation**, **render reproducibility**, and **data-pipeline verification** across visualization outputs.
+
+<div align="right">
+
+[![Back to Top](https://img.shields.io/badge/-⫛_TO_TOP-0d1117?style=flat)](#readme-top)
+
+</div>
+
+
+## 🤝 Contributing
+**Contributions welcome!**  
+To maintain clarity and reproducibility:
+
+1. Open an issue to discuss major visual or analytical changes.  
+2. Follow consistent **naming, documentation, and figure export** conventions.  
+3. Include **screenshots, dashboard URLs, or statistical justifications** for new visual designs.  
+4. Submit pull requests with clear descriptions of intent and outcomes.
+
+> [!TIP]
+> High-value contributions include **interactive dashboards**, **accessibility-focused redesigns**, and **quantum visualization prototypes**.
+
+<div align="right">
+
+[![Back to Top](https://img.shields.io/badge/-⫛_TO_TOP-0d1117?style=flat)](#readme-top)
+
+</div>
+
+
+## 🚧 Future Work
+- **Dashboard Performance Profiling:** Measure Tableau and Python rendering latencies.  
+- **Statistical Validation:** Integrate metrics into dashboards (R², p-values, etc.).  
+- **Interactivity Enhancements:** Add sliders, filters, and radio widgets to all Python demos.  
+- **Expanded Datasets:** Include open-data sources from NOAA, NASA, and Kaggle.  
+- **Automated CI/CD:** Generate visualization previews during PR builds.
+
+<div align="right">
+
+[![Back to Top](https://img.shields.io/badge/-⫛_TO_TOP-0d1117?style=flat)](#readme-top)
+
+</div>
+
+
+<div align="center">
+
+##
+### 👤 Author  
+**Sabneet Bains**  
+*Quantum × AI × Scientific Computing*  
 [LinkedIn](https://www.linkedin.com/in/sabneet-bains/) • [GitHub](https://github.com/sabneet-bains)
 
+##
+### 📄 License  
+Licensed under the [MIT License](https://choosealicense.com/licenses/mit/)
 
-## 📄 License  
+<sub>“Visualization is not the end of analysis — it’s the beginning of understanding.”</sub>
 
-This repository is licensed under the [MIT License](https://choosealicense.com/licenses/mit/).
-
+</div>
